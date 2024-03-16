@@ -1,4 +1,6 @@
-![Logo](https://github.com/milceo/.github/blob/main/logo.png)
+<p align="center">
+  <img src="https://github.com/milceo/assets/blob/main/logo.png" alt="Milceo logo" width=450>
+</p>
 
 ## About us
 
