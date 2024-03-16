@@ -1,4 +1,4 @@
-![Logo](../logo.png)
+![Logo](https://github.com/milceo/.github/blob/main/logo.png)
 
 ## About us
 
